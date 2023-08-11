@@ -1,4 +1,3 @@
-# customer_prefrence_analysis
 # Customer Preference Analysis
 
 ## Overview
